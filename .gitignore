@@ -7,6 +7,10 @@
 ##
 ## Get latest from https://github.com/github/gitignore/blob/main/Dotnet.gitignore
 
+# ==========================================
+# .Net Core
+# ==========================================
+
 # Build results
 [Dd]ebug/
 [Dd]ebugPublic/
@@ -38,11 +42,15 @@ ScaffoldingReadMe.txt
 
 # dotenv environment variables file
 .env
+.env.*
+!.env.example
 
 # Others
 ~$*
 *~
 CodeCoverage/
+*.mdf
+*.ldf
 
 # MSBuild Binary and Structured Log
 *.binlog
@@ -55,3 +63,72 @@ CodeCoverage/
 *.VisualState.xml
 TestResult.xml
 nunit-*.xml
+
+# Build
+bin/
+obj/
+
+# Visual Studio
+.vs/
+
+# Rider
+.idea/
+
+# VS Code
+.vscode/
+
+# User-specific
+*.user
+*.suo
+
+# Logs
+*.log
+
+# Certificates
+*.pfx
+*.pem
+*.key
+*.crt
+*.cer
+
+# ==========================================
+# Angular / Node.js
+# ==========================================
+
+node_modules/
+dist/
+.angular/
+.cache/
+coverage/
+.npm/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# ==========================================
+# Tools
+# ==========================================
+# Docker
+docker-compose.override.yml
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# Others
+*.tmp
+*.temp
+*.bak
+*.orig
+*.log
+models/
+weights/
+*.gguf
+*.onnx
+*.db
+*.sqlite
+*.sqlite3
