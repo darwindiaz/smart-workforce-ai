@@ -1,0 +1,56 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "SmartWorkforce.Application/1.0.0": {
+        "dependencies": {
+          "SmartWorkforce.BuildingBlocks": "1.0.0",
+          "SmartWorkforce.Domain": "1.0.0"
+        },
+        "runtime": {
+          "SmartWorkforce.Application.dll": {}
+        }
+      },
+      "SmartWorkforce.BuildingBlocks/1.0.0": {
+        "runtime": {
+          "SmartWorkforce.BuildingBlocks.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "SmartWorkforce.Domain/1.0.0": {
+        "dependencies": {
+          "SmartWorkforce.BuildingBlocks": "1.0.0"
+        },
+        "runtime": {
+          "SmartWorkforce.Domain.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SmartWorkforce.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SmartWorkforce.BuildingBlocks/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SmartWorkforce.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,15 @@
+D:\REPOS\SmartWorkforce\backend\src\SmartWorkforce.Domain\bin\Debug\net10.0\SmartWorkforce.Domain.deps.json
+D:\REPOS\SmartWorkforce\backend\src\SmartWorkforce.Domain\bin\Debug\net10.0\SmartWorkforce.Domain.dll
+D:\REPOS\SmartWorkforce\backend\src\SmartWorkforce.Domain\bin\Debug\net10.0\SmartWorkforce.Domain.pdb
+D:\REPOS\SmartWorkforce\backend\src\SmartWorkforce.Domain\obj\Debug\net10.0\SmartWorkforce.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\REPOS\SmartWorkforce\backend\src\SmartWorkforce.Domain\obj\Debug\net10.0\SmartWorkforce.Domain.AssemblyInfoInputs.cache
+D:\REPOS\SmartWorkforce\backend\src\SmartWorkforce.Domain\obj\Debug\net10.0\SmartWorkforce.Domain.AssemblyInfo.cs
+D:\REPOS\SmartWorkforce\backend\src\SmartWorkforce.Domain\obj\Debug\net10.0\SmartWorkforce.Domain.csproj.CoreCompileInputs.cache
+D:\REPOS\SmartWorkforce\backend\src\SmartWorkforce.Domain\obj\Debug\net10.0\SmartWorkforce.Domain.dll
+D:\REPOS\SmartWorkforce\backend\src\SmartWorkforce.Domain\obj\Debug\net10.0\refint\SmartWorkforce.Domain.dll
+D:\REPOS\SmartWorkforce\backend\src\SmartWorkforce.Domain\obj\Debug\net10.0\SmartWorkforce.Domain.pdb
+D:\REPOS\SmartWorkforce\backend\src\SmartWorkforce.Domain\obj\Debug\net10.0\ref\SmartWorkforce.Domain.dll
+D:\REPOS\SmartWorkforce\backend\src\SmartWorkforce.Domain\bin\Debug\net10.0\SmartWorkforce.BuildingBlocks.dll
+D:\REPOS\SmartWorkforce\backend\src\SmartWorkforce.Domain\bin\Debug\net10.0\SmartWorkforce.BuildingBlocks.pdb
+D:\REPOS\SmartWorkforce\backend\src\SmartWorkforce.Domain\obj\Debug\net10.0\SmartWorkforce.Domain.csproj.AssemblyReference.cache
+D:\REPOS\SmartWorkforce\backend\src\SmartWorkforce.Domain\obj\Debug\net10.0\SmartWor.675B2B07.Up2Date

@@ -1,0 +1,11 @@
+D:\REPOS\SmartWorkforce\backend\src\SmartWorkforce.BuildingBlocks\bin\Debug\net10.0\SmartWorkforce.BuildingBlocks.deps.json
+D:\REPOS\SmartWorkforce\backend\src\SmartWorkforce.BuildingBlocks\bin\Debug\net10.0\SmartWorkforce.BuildingBlocks.dll
+D:\REPOS\SmartWorkforce\backend\src\SmartWorkforce.BuildingBlocks\bin\Debug\net10.0\SmartWorkforce.BuildingBlocks.pdb
+D:\REPOS\SmartWorkforce\backend\src\SmartWorkforce.BuildingBlocks\obj\Debug\net10.0\SmartWorkforce.BuildingBlocks.GeneratedMSBuildEditorConfig.editorconfig
+D:\REPOS\SmartWorkforce\backend\src\SmartWorkforce.BuildingBlocks\obj\Debug\net10.0\SmartWorkforce.BuildingBlocks.AssemblyInfoInputs.cache
+D:\REPOS\SmartWorkforce\backend\src\SmartWorkforce.BuildingBlocks\obj\Debug\net10.0\SmartWorkforce.BuildingBlocks.AssemblyInfo.cs
+D:\REPOS\SmartWorkforce\backend\src\SmartWorkforce.BuildingBlocks\obj\Debug\net10.0\SmartWorkforce.BuildingBlocks.csproj.CoreCompileInputs.cache
+D:\REPOS\SmartWorkforce\backend\src\SmartWorkforce.BuildingBlocks\obj\Debug\net10.0\SmartWorkforce.BuildingBlocks.dll
+D:\REPOS\SmartWorkforce\backend\src\SmartWorkforce.BuildingBlocks\obj\Debug\net10.0\refint\SmartWorkforce.BuildingBlocks.dll
+D:\REPOS\SmartWorkforce\backend\src\SmartWorkforce.BuildingBlocks\obj\Debug\net10.0\SmartWorkforce.BuildingBlocks.pdb
+D:\REPOS\SmartWorkforce\backend\src\SmartWorkforce.BuildingBlocks\obj\Debug\net10.0\ref\SmartWorkforce.BuildingBlocks.dll

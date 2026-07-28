@@ -1,0 +1,9 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/SmartWorkforce.Api/SmartWorkforce.Api.csproj" />
+    <Project Path="src/SmartWorkforce.Application/SmartWorkforce.Application.csproj" />
+    <Project Path="src/SmartWorkforce.BuildingBlocks/SmartWorkforce.BuildingBlocks.csproj" />
+    <Project Path="src/SmartWorkforce.Domain/SmartWorkforce.Domain.csproj" />
+    <Project Path="src/SmartWorkforce.Infrastructure/SmartWorkforce.Infrastructure.csproj" />
+  </Folder>
+</Solution>

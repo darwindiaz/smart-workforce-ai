@@ -1,0 +1,17 @@
+D:\REPOS\SmartWorkforce\backend\src\SmartWorkforce.Application\bin\Debug\net10.0\SmartWorkforce.Application.deps.json
+D:\REPOS\SmartWorkforce\backend\src\SmartWorkforce.Application\bin\Debug\net10.0\SmartWorkforce.Application.dll
+D:\REPOS\SmartWorkforce\backend\src\SmartWorkforce.Application\bin\Debug\net10.0\SmartWorkforce.Application.pdb
+D:\REPOS\SmartWorkforce\backend\src\SmartWorkforce.Application\bin\Debug\net10.0\SmartWorkforce.Domain.dll
+D:\REPOS\SmartWorkforce\backend\src\SmartWorkforce.Application\bin\Debug\net10.0\SmartWorkforce.Domain.pdb
+D:\REPOS\SmartWorkforce\backend\src\SmartWorkforce.Application\obj\Debug\net10.0\SmartWorkforce.Application.csproj.AssemblyReference.cache
+D:\REPOS\SmartWorkforce\backend\src\SmartWorkforce.Application\obj\Debug\net10.0\SmartWorkforce.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\REPOS\SmartWorkforce\backend\src\SmartWorkforce.Application\obj\Debug\net10.0\SmartWorkforce.Application.AssemblyInfoInputs.cache
+D:\REPOS\SmartWorkforce\backend\src\SmartWorkforce.Application\obj\Debug\net10.0\SmartWorkforce.Application.AssemblyInfo.cs
+D:\REPOS\SmartWorkforce\backend\src\SmartWorkforce.Application\obj\Debug\net10.0\SmartWorkforce.Application.csproj.CoreCompileInputs.cache
+D:\REPOS\SmartWorkforce\backend\src\SmartWorkforce.Application\obj\Debug\net10.0\SmartWor.4CCB6AAB.Up2Date
+D:\REPOS\SmartWorkforce\backend\src\SmartWorkforce.Application\obj\Debug\net10.0\SmartWorkforce.Application.dll
+D:\REPOS\SmartWorkforce\backend\src\SmartWorkforce.Application\obj\Debug\net10.0\refint\SmartWorkforce.Application.dll
+D:\REPOS\SmartWorkforce\backend\src\SmartWorkforce.Application\obj\Debug\net10.0\SmartWorkforce.Application.pdb
+D:\REPOS\SmartWorkforce\backend\src\SmartWorkforce.Application\obj\Debug\net10.0\ref\SmartWorkforce.Application.dll
+D:\REPOS\SmartWorkforce\backend\src\SmartWorkforce.Application\bin\Debug\net10.0\SmartWorkforce.BuildingBlocks.dll
+D:\REPOS\SmartWorkforce\backend\src\SmartWorkforce.Application\bin\Debug\net10.0\SmartWorkforce.BuildingBlocks.pdb
