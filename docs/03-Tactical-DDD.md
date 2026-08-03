@@ -140,7 +140,6 @@ Estados definidos:
 - Borrador
 - En Proceso
 - Pendiente de Revisión
-- Finalizada
 - Aprobada
 
 ---

@@ -1,6 +1,7 @@
 ﻿<Project Sdk="Microsoft.NET.Sdk">
 
   <ItemGroup>
+    <ProjectReference Include="..\SmartWorkforce.Application\SmartWorkforce.Application.csproj" />
     <ProjectReference Include="..\SmartWorkforce.Domain\SmartWorkforce.Domain.csproj" />
     <ProjectReference Include="..\SmartWorkforce.BuildingBlocks\SmartWorkforce.BuildingBlocks.csproj" />
   </ItemGroup>

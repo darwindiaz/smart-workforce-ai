@@ -9,6 +9,14 @@ public class Conciliation
     private ConciliationStatus _status;
     private readonly string _createdBy;
     private readonly DateTime _createdAt;
+    private List<BankMovement> _bankMovements;
+    private List<AccountingMovement> _accountingMovements;
+
+    public Guid ConciliationId => _conciliationId;
+    public string ConciliationType => _conciliationType;
+    public string BankAccountId => _bankAccountId;
+    public ConciliationStatus Status => _status;
+    public DateTime CreatedAt => _createdAt;
 
     public Conciliation(
         Guid conciliationId,
@@ -26,6 +34,8 @@ public class Conciliation
         _status = status;
         _createdBy = createdBy;
         _createdAt = createdAt;
+        _bankMovements = new List<BankMovement>();
+        _accountingMovements = new List<AccountingMovement>();
     }
 
     public void LoadBankMovements()
